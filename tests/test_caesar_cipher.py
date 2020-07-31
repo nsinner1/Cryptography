@@ -1,4 +1,6 @@
 from caesar_cipher import __version__
+from  caesar_cipher.caesar import CaesarCipher
+
 
 
 def test_version():
